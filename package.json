@@ -1,0 +1,24 @@
+{
+  "name": "mern12_lec14_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gauravraj11/MERN12_Lec14_Express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gauravraj11/MERN12_Lec14_Express/issues"
+  },
+  "homepage": "https://github.com/gauravraj11/MERN12_Lec14_Express#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
